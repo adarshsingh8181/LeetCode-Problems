@@ -14,6 +14,7 @@ Practicing LeetCode DSA for improvement
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -24,4 +25,12 @@ Practicing LeetCode DSA for improvement
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0155-min-stack) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
