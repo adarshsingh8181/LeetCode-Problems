@@ -43,6 +43,7 @@ Practicing LeetCode DSA for improvement
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -51,4 +52,5 @@ Practicing LeetCode DSA for improvement
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
