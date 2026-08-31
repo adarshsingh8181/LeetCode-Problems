@@ -39,4 +39,16 @@ Practicing LeetCode DSA for improvement
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
