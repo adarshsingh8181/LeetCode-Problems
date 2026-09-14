@@ -43,6 +43,7 @@ Practicing LeetCode DSA for improvement
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0509-fibonacci-number) |
@@ -63,9 +64,11 @@ Practicing LeetCode DSA for improvement
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
