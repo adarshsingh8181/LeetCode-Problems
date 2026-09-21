@@ -2,21 +2,16 @@ class Solution {
 public:
     int rob(vector<int>& nums) {
         int n = nums.size();
-        vector<int> dp(n, -1);
-        return helper(0, nums, dp);
-    }
 
-    int helper(int i, vector<int>& nums, vector<int>& dp) {
-        if (i >= nums.size())
-            return 0;
+        vector<int> dp(n + 1, 0);
 
-        if (dp[i] != -1)
-            return dp[i];
+        dp[0] = 0;
+        dp[1] = nums[0];
 
-        int taken = nums[i] + helper(i + 2, nums, dp);
-        int nottaken = helper(i + 1, nums, dp);
+        for (int i = 2; i <= n; i++) {
+            dp[i] = max(dp[i - 1], dp[i - 2] + nums[i - 1]);
+        }
 
-        dp[i] = max(taken, nottaken);
-        return dp[i];
+        return dp[n];
     }
 };
