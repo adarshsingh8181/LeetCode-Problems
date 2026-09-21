@@ -6,6 +6,7 @@ Practicing LeetCode DSA for improvement
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0496-next-greater-element-i](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@ Practicing LeetCode DSA for improvement
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
