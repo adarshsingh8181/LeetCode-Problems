@@ -8,6 +8,7 @@ Practicing LeetCode DSA for improvement
 | ------- |
 | [0198-house-robber](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0496-next-greater-element-i](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Practicing LeetCode DSA for improvement
 | [0155-min-stack](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -73,4 +75,8 @@ Practicing LeetCode DSA for improvement
 | ------- |
 | [0070-climbing-stairs](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/adarshsingh8181/LeetCode-Problems/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
